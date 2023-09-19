@@ -1,6 +1,6 @@
 {
   "name": "@stacktraceinc/custom-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds id attribute to elements in ckeditor",
   "main": "index.js",
   "scripts": {
